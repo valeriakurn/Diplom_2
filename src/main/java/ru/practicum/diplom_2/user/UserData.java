@@ -2,8 +2,6 @@ package ru.practicum.diplom_2.user;
 
 import com.github.javafaker.Faker;
 import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
 
 @AllArgsConstructor
 public class UserData {
