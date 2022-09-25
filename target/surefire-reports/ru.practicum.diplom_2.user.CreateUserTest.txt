@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ru.practicum.diplom_2.user.CreateUserTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.287 s <<< FAILURE! - in ru.practicum.diplom_2.user.CreateUserTest
-TwoIdenticalUsersCannotBeRegisteredTest(ru.practicum.diplom_2.user.CreateUserTest)  Time elapsed: 0.795 s  <<< FAILURE!
-java.lang.AssertionError: Status code is incorrect expected:<403> but was:<429>
-	at ru.practicum.diplom_2.user.CreateUserTest.TwoIdenticalUsersCannotBeRegisteredTest(CreateUserTest.java:70)
-
